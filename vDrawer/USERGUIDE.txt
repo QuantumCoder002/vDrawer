@@ -1,0 +1,17 @@
+Please don't move any component from the bin folder.
+When installing, move the bin folder to the Local Disk, any directory is authorized !
+
+Main Screen :
+-Drawing Canvas
+-Color Buttons
+-Settings Button
+
+Settings Screen :
+-Shape Choice
+-Width (in pixels)
+-Save Button
+
+When the Save Button is pressed,vDrawer creates a folder named vDrawerPics in Local Disk (C)
+and takes what's drawn in the canvas and saves it as a png picture, remember to change the
+picture's name so vDrawer doesn't replaces that picture with a new one, in that case, its
+irreversible.
